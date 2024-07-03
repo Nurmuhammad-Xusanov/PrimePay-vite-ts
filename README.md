@@ -7,7 +7,6 @@ Technologies used in the project:
 *   TypeScript
 *   JavaScript
 *   Tailwind Css
-*   
 
 # Getting Started with Create React App (TypeScript)
 
