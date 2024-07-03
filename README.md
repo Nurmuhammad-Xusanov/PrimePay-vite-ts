@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# 🚀 Demo
+https://prime-pay-vite.netlify.app/
+
+# 💻Built with
+Technologies used in the project:
+*   ReactJS
+*   TypeScript
+*   JavaScript
+*   Tailwind Css
+*   
+
+# Getting Started with Create React App (TypeScript)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +79,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
